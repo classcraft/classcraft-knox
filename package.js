@@ -6,7 +6,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0');
-  api.addFiles('classcraft:knox.js');
+  api.addFiles('classcraft:knox.js', 'server');
   api.export('Knox', 'server');
 });
 
