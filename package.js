@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Meteor smart package for knox.",
-  version: "0.9.1",
+  version: "0.9.11",
   git: "https://github.com/classcraft/classcraft-knox"
 });
 
